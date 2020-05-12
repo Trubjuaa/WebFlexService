@@ -1,0 +1,5 @@
+
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools
+
+wsdl /language:CS /n:"Microsoft.SqlServer.ReportingServices2010" http://juan/reportserver/reportservice2010.asmx?wsdl  
